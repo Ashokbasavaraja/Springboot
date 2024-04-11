@@ -1,0 +1,11 @@
+spring.datasource.url=jdbc:mySql://localhost:3306/student
+spring.datasource.name=root
+spring.datasource.password=root
+spring.jpa.hibernate.ddl-auto=create
+spring.jpa.show-sql=true
+
+spring.data.mongodb.host=localhost
+spring.data.mongodb.port=27017
+spring.data.mongodb.database=student
+spring.data.mongodb.username=admin
+spring.data.mongodb.password=password

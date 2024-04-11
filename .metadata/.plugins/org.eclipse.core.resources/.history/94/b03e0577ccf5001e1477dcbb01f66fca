@@ -1,0 +1,10 @@
+package com.sjprogramming.restapi.entity;
+
+public class student {
+	private int rollno;
+	private String name;
+	private float percentage;
+	private String branch;
+
+	
+}
